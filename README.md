@@ -1,2 +1,2 @@
 # naec
-Livanova Scraper App
+Azure Screen Scraper App for NAEC Website
